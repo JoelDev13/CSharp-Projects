@@ -1,0 +1,31 @@
+# Archivos de Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Configuración de entornos
+.env
+*.config
+
+# Paquetes y módulos
+packages/
+node_modules/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
